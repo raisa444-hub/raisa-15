@@ -1,0 +1,20 @@
+{
+  "data_shape": [
+    2000,
+    4
+  ],
+  "features": [
+    "feat1",
+    "feat2"
+  ],
+  "targets": [
+    "target"
+  ],
+  "T_in": 48,
+  "T_out": 1,
+  "train_size": 1366,
+  "val_size": 293,
+  "test_size": 293,
+  "lstm_rmse": 0.3426530804065508,
+  "lstm_mae": 0.2649259308861407
+}
