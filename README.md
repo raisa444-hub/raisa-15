@@ -1,7 +1,9 @@
 # raisa-15
 Advance timeseries forecasting using neural network and explainable AI
-description
+
+Description
 This project develops, trains and evaluates deep learning models (LSTM or TCN) for multivariate time series forecasting and compares them to a classical statistical baseline (e.g., SARIMAX). It includes a robust preprocessing pipeline (scaling, missing-value imputation, feature engineering), unit tests for the pipeline, and an explainability stage using SHAP (or similar) to quantify feature importance for model predictions. Deliverables include runnable Python code, saved model files and a written report summarizing dataset characteristics, modeling choices, hyperparameters and XAI findings.
+
 Methodology
 Methodology (step-by-step)
 Data acquisition & inspection
